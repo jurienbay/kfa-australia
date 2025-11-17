@@ -4,6 +4,8 @@
 quick-build kits and fully built aircraft suitable for remote outback bush
 country.
 
+{% include youtube.html id="csrl7snQt04" %}
+
 South Africa and Outback Australia share many simularities and challanages. KFA
 aircraft have been designed for exactly these conditions with a strong
 undercarriage, reasonable cruising speed, excellent weight carrying capacity
