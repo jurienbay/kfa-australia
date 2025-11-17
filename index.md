@@ -10,6 +10,10 @@ undercarriage, reasonable cruising speed, excellent weight carrying capacity
 with a low overall MTOW and good enough endurance to get you to the next remote
 destination.
 
+## Models
+
+ - [Explorer](https://www.kfa-australia.com/explorer)
+
 ## Contacts
 
 [email](mailto:sales@kfa-australia.com) address.
