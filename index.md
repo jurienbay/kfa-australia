@@ -15,6 +15,10 @@ destination.
  - [Explorer](https://www.kfa-australia.com/explorer)
  - [Safari Mk3](https://www.kfa-australia.com/safari-mk3)
 
+## Documentation
+
+See [documentation](https://www.kfa-australia.com/documentation)
+
 ## Contacts
 
 [email](mailto:sales@kfa-australia.com) address.
