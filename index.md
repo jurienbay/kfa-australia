@@ -13,6 +13,7 @@ destination.
 ## Models
 
  - [Explorer](https://www.kfa-australia.com/explorer)
+ - [Safari Mk3](https://www.kfa-australia.com/safari-mk3)
 
 ## Contacts
 
