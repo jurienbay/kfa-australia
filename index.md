@@ -23,4 +23,4 @@ See [documentation](https://www.kfa-australia.com/documentation)
 
 ## Contacts
 
-[email](mailto:sales@kfa-australia.com) address.
+[email](mailto:sales _AT_ kfa-australia _DOT_ com) address.
